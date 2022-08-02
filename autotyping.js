@@ -119,7 +119,7 @@ var AutoTyping = (function (e) {
 ]).default;
 
 
-const exampleText = ['Sites' + ' '+'Internet ', 'E-commerces', 'Blogs'];
+const exampleText = ['Sites' + ' '+'Internet ', 'Sites'+ ' ' +'E-commerce', ' Sites' + ' '+'Vitrine'] ;
 const exampleTyping = new AutoTyping('#text', exampleText, {
     typeSpeed: 100,
     deleteSpeed: 100,
