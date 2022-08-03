@@ -414,6 +414,10 @@ video {
   max-width: 100%;
   height: auto;
 }
+.image {
+  width: 100%;
+  height: 100%;
+}
 
 /*
 Ensure the default browser behavior of the `hidden` attribute.
@@ -804,6 +808,7 @@ Ensure the default browser behavior of the `hidden` attribute.
 .object-cover {
   -o-object-fit: cover;
      object-fit: cover;
+    
 }
 
 .p-10 {
@@ -846,6 +851,10 @@ Ensure the default browser behavior of the `hidden` attribute.
   padding-right: 2.5rem;
 }
 
+.py-30 {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
 .py-40 {
   padding-top: 10rem;
   padding-bottom: 10rem;
