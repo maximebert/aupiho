@@ -970,6 +970,7 @@ Ensure the default browser behavior of the `hidden` attribute.
 .ring-indigo-300 {
   --tw-ring-opacity: 1;
   --tw-ring-color: rgb(165 180 252 / var(--tw-ring-opacity));
+  border: solid rgb(59 130 246 / 0.5);
 }
 
 .transition-all {
