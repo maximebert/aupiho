@@ -1,0 +1,12 @@
+h1 {
+text-align: center;
+font-size: 3em;
+}
+h2 {
+    font-size: 1.2em;
+    margin-top: 3em;
+}
+.mentions {
+    margin-left: 2em;
+    margin-right: 2em;
+}
